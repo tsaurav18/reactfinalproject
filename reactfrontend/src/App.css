@@ -1,0 +1,18 @@
+.PostingPaper{
+  padding:1rm;
+  margin:1rm;
+}
+body{
+  background-color:#f5f5f5;
+
+}
+.PostingForm{
+  display:flex;
+  flex-direction: column;
+}
+.card{
+  margin-bottom:2rem;
+}
+h2{
+  text-align:center;
+}
